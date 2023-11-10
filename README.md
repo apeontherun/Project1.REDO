@@ -1,5 +1,6 @@
-# Project1.REDO
-Project 1 for RICE FinTech Assignment
+# FinProject1.REDO
+
+# INTEREST RATES: ARE THEY THE CRYSTAL BALL?
 
 ![image](https://github.com/apeontherun/Project1.REDO/assets/28538519/2974c3ce-fb9e-4c51-a275-a0b56188a243)
 
