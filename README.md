@@ -15,4 +15,18 @@ Project 1 for RICE FinTech Assignment
 
 ## GRAPH 6
 
+## NOTEBOOKS
+
+## APPLICATIONS
+Yahoo Finanace API\
+Python\
+Pandas\
+Seaborn\
+HVPLOT\
+JUPYTER\
+JUPYTERLAB
+
 ## CONCLUSION
+
+## TEAM MEMBERS
+BRIAN KEYS
