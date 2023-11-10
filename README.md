@@ -1,4 +1,4 @@
-# FinProject1.REDO
+# FinTechProject1.REDO
 
 # INTEREST RATES: ARE THEY THE CRYSTAL BALL?
 
