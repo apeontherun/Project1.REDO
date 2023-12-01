@@ -29,14 +29,14 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 ![Nasdaq Index vs DFF Scatter Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/a9f12a3f-c289-4e2b-92db-017c54dc0667)
 ![Nasdaq Close vs DFF Heatmap](https://github.com/apeontherun/Project1.REDO/assets/28538519/c3cb6c38-8a88-406f-9d38-4042121e0b2d)
 
-Is there a correlation between Nasdaq index and Discount Federal Fund Rate (DFF)?
+Is there a correlation between Nasdaq index and Discount Federal Fund Rate (DFF)?/
 Based on the results above the Technology Sector does not have a correlation with DFF.
 
 ### SECTION 6 
 ![Home Sold vs DFF Scatter Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/3b226d6a-e2f9-4bad-a9f3-d61fd3b38f89)
 ![Home Sold vs DFF Heatmap](https://github.com/apeontherun/Project1.REDO/assets/28538519/1061c28e-772e-453d-b2fc-d412750ae490)
 
-Is there a correlation between US Home Sold and Discount Federal Fund Rate (DFF)?
+Is there a correlation between US Home Sold and Discount Federal Fund Rate (DFF)?/
 Based on the results above the US Home Sold has a correlation with DFF.
 
 ## NOTEBOOKS
