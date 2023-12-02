@@ -22,10 +22,10 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 ![Tech Stocks Historical Volume](https://github.com/apeontherun/Project1.REDO/assets/28538519/2f47e302-aae4-47df-b110-61b8b28491e1)
 
 ![Historical Homes Sold](https://github.com/apeontherun/Project1.REDO/assets/28538519/1adb5ef2-1283-4bba-8223-5ae5704b1663)
-#
+
 # RESULTS
 
-# TECHNOLOGY SECTOR ANALYSIS
+## TECHNOLOGY SECTOR ANALYSIS
 
 ![Nasdaq Close and DFF Overlay](https://github.com/apeontherun/Project1.REDO/assets/28538519/1dd566cd-637c-44cf-996d-11ff3bbe4263)
 
@@ -37,7 +37,7 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 * Is there a correlation between Nasdaq index and Discount Federal Fund Rate (DFF)?
 * Based on the results above the Technology Sector does not have a correlation with DFF.
 # 
-# HOUSING MARKET ANALYSIS
+## HOUSING MARKET ANALYSIS
 
 ![Home Sold vs DFF Scatter Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/3b226d6a-e2f9-4bad-a9f3-d61fd3b38f89)
 
