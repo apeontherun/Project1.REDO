@@ -4,7 +4,7 @@
 
 ![image](https://github.com/apeontherun/Project1.REDO/assets/28538519/2974c3ce-fb9e-4c51-a275-a0b56188a243)
 
-#
+##
 
 ## EXECUTIVE SUMMARY
 With the rising interest rates, the economy as we know it has become a bit unpredictable. These rising rates has caused a tremendous amount strain various marketplace. For this project we will take a deeper dive and see how federal interest rates effect technology sector and the housing market. The timeframe set for this project is January 1, 2020 through October 31, 2023. During this timeframe we are able to see these rates at their lowest and the most recent highs.  At conclusion of this project, I hope to identify a correlation between federal interest rates and aforementioned markets.  In addition, determine any stategic investment or trading opportunities
@@ -22,7 +22,7 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 ![Tech Stocks Historical Volume](https://github.com/apeontherun/Project1.REDO/assets/28538519/2f47e302-aae4-47df-b110-61b8b28491e1)
 
 ![Historical Homes Sold](https://github.com/apeontherun/Project1.REDO/assets/28538519/1adb5ef2-1283-4bba-8223-5ae5704b1663)
-
+#
 # RESULTS
 
 ### TECHNOLOGY SECTOR ANALYSIS
@@ -31,7 +31,7 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 ![Nasdaq Index vs DFF Scatter Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/a9f12a3f-c289-4e2b-92db-017c54dc0667)
 
 ![Nasdaq Close vs DFF Heatmap](https://github.com/apeontherun/Project1.REDO/assets/28538519/c3cb6c38-8a88-406f-9d38-4042121e0b2d)
-
+#
 
 * Is there a correlation between Nasdaq index and Discount Federal Fund Rate (DFF)?
 * Based on the results above the Technology Sector does not have a correlation with DFF.
@@ -40,7 +40,7 @@ With the rising interest rates, the economy as we know it has become a bit unpre
 ![Home Sold vs DFF Scatter Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/3b226d6a-e2f9-4bad-a9f3-d61fd3b38f89)
 
 ![Home Sold vs DFF Heatmap](https://github.com/apeontherun/Project1.REDO/assets/28538519/1061c28e-772e-453d-b2fc-d412750ae490)
-
+#
 * Is there a correlation between US Home Sold and Discount Federal Fund Rate (DFF)?
 * Based on the results above the US Home Sold has a correlation with DFF.
 
