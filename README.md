@@ -1,13 +1,14 @@
-# FinTechProject1.REDO
+## FinTechProject1.REDO
 
 # INTEREST RATES: ARE THEY THE CRYSTAL BALL?
 
 ![image](https://github.com/apeontherun/Project1.REDO/assets/28538519/2974c3ce-fb9e-4c51-a275-a0b56188a243)
 
+#
 
 ## EXECUTIVE SUMMARY
 With the rising interest rates, the economy as we know it has become a bit unpredictable. These rising rates has caused a tremendous amount strain various marketplace. For this project we will take a deeper dive and see how federal interest rates effect technology sector and the housing market. The timeframe set for this project is January 1, 2020 through October 31, 2023. During this timeframe we are able to see these rates at their lowest and the most recent highs.  At conclusion of this project, I hope to identify a correlation between federal interest rates and aforementioned markets.  In addition, determine any stategic investment or trading opportunities
-
+#
 
 ### HISTORICAL DATA
 ![Historical Interest Rates Plot](https://github.com/apeontherun/Project1.REDO/assets/28538519/7882ecd1-7aae-4b63-9af6-0293fddc6516)
